@@ -1,0 +1,26 @@
+﻿<Properties StartupItem="Assembly-CSharp.csproj">
+  <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug" PreferredExecutionTarget="Unity.Instance.Unity Editor" />
+  <MonoDevelop.Ide.Workbench ActiveDocument="Assets\Scripts\PlayerBehaviorScript.cs">
+    <Files>
+      <File FileName="Assets\PortalScript.cs" Line="39" Column="3" />
+      <File FileName="Assets\Scripts\LightMBehaviorScript.cs" Line="1" Column="1" />
+      <File FileName="Assets\Scripts\PlayerBehaviorScript.cs" Line="210" Column="2" />
+      <File FileName="Assets\Scripts\PlayerMBehaviorScript.cs" Line="1" Column="1" />
+      <File FileName="Assets\Scripts\PlayerFBehaviorScript.cs" Line="1" Column="1" />
+      <File FileName="Assets\GameManagerScript.cs" Line="1" Column="1" />
+      <File FileName="Assets\Scripts\CameraBehaviorScript.cs" Line="1" Column="1" />
+      <File FileName="Assets\Scripts\EnemyBehaviorScript.cs" Line="1" Column="1" />
+      <File FileName="Assets\Scripts\Socket.cs" Line="1" Column="1" />
+      <File FileName="Assets\Scripts\SocketAttackScript.cs" Line="1" Column="1" />
+      <File FileName="Assets\Scripts\SocketWaveScript.cs" Line="1" Column="1" />
+      <File FileName="Assets\Scripts\SocketVampireScript.cs" Line="1" Column="1" />
+      <File FileName="Assets\Scripts\SocketFireScript.cs" Line="1" Column="1" />
+      <File FileName="Assets\Scripts\SocketPoisonScript.cs" Line="1" Column="1" />
+      <File FileName="Assets\Scripts\LightFBehaviorScript.cs" Line="1" Column="1" />
+    </Files>
+  </MonoDevelop.Ide.Workbench>
+  <MonoDevelop.Ide.DebuggingService.Breakpoints>
+    <BreakpointStore />
+  </MonoDevelop.Ide.DebuggingService.Breakpoints>
+  <MonoDevelop.Ide.DebuggingService.PinnedWatches />
+</Properties>
